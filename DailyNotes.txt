@@ -1,0 +1,228 @@
+Python:
+======
+	communication machine 
+
+	core python
+	
+	
+		guido van russam
+		
+		feb 20th 1991
+		
+	
+	
+class Demo{
+
+public static void main(String args[])
+{
+System.out.println("welcome to java")
+}
+}
+
+30+
+
+
+ import keyword
+>>> keyword.kwlist
+['False', 'None', 'True', 'and', 'as', 'assert', 'async', 'await', 'break', 'class', 
+'continue', 'def', 'del', 'elif', 'else', 'except', 'finally', 'for', 'from', 'global', 
+'if', 'import', 'in', 'is', 'lambda', 
+'nonlocal', 'not', 'or', 'pass', 'raise', 'return', 'try', 'while', 'with', 'yield']
+
+
+functional programming
+Object oriented 
+scripting langauge
+modular programming
+
+
+C and ABC
+
+Applications:
+
+1)desktop 
+2)web app
+3)database 
+4)networking
+5)gaming 
+
+
+Features:
+==========
+1)simple
+2)platform independent
+3)protable
+4)Dynamic typed			byte age=23;   age=78
+5)Interpreted						
+
+			
+Cpython
+jython
+
+pip
+
+
+datatypes
+
+exception handling
+
+multi threading
+
+file interaction
+
+oops
+	
+	
+			a-z
+			A-Z
+			0-9
+			_
+
+	int
+	float
+	complex
+	bool
+	str
+	
+
+		print()
+		id()
+		type()
+		
+		input
+		int()
+		float()
+		complex()
+		bool()
+		str()
+		
+		
+	List 
+	tuple
+	set
+	fronzenset
+	dict
+	
+		
+		
+	List:(Muttable)
+
+		group of objects as single entity 
+		
+		1)duplicates are allowed 
+		2)insertion order  is followed 
+		3)Heterogeneous
+		4)growable 
+		5)[]
+	
+	Tuple:(Imuttable)
+
+		group of objects as single entity 
+		
+		1)duplicates are allowed 
+		2)insertion order  is followed 
+		3)Heterogeneous
+		4)()
+
+	Set(muttable)
+	group of objects as single entity 
+		
+		1)duplicates are not allowed 
+		2)insertion order  is not followed 
+		3)Heterogeneous
+		4)growable 
+		5){}
+
+	FrozenSet(imuttable)
+	group of objects as single entity 
+		
+		1)duplicates are not allowed 
+		2)insertion order  is not followed 
+		3)Heterogeneous
+		4)growable 
+		5){()}  /frozenset()
+		
+	Dict
+		group of objects as a key value
+		
+		1)duplicates  keys are not allowed  values can be 
+		2)insertion order  is not followed 
+		3)Heterogeneous
+		4)growable 
+		5){}
+	
+			.py-->jupyterlab
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		.py
+
+
+
+	
+		
+		
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
