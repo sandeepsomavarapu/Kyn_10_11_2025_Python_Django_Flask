@@ -153,10 +153,97 @@ oops
 	
 			.py-->jupyterlab
 			
+VSCODE
+
+
+		def  m1():
 			
 			
 			
 			
+			
+		m1()
+			
+			
+	class Demo:
+		def __init__(self):
+			..
+			..
+			..
+		
+		def add(self,a,b):
+			return a+b;
+	
+	obj=Demo()
+
+
+
+variables:
+	
+		local
+		global-->instance,static
+
+instance
+		inside constructor  by using self
+		inside instance method by using self
+		outside the class by using obj reference
+		
+static/class variable
+
+		always using classname 
+		
+		
+Methods
+	instance method		self 	
+	static method				@staticmethod
+	class method		cls		@classmethod
+
+
+Inheritance
+
+
+	class Employee
+	
+	
+	
+	
+	
+	
+	
+	class SWEmployee(X,Employee)
+
+
+
+		x.m1()
+
+		print(10+20)    __add__
+		print("suresh"+"india")
+		
+		deposit(cash/cheque/dd)
+		
+		Exception
+		
+		database
+		
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
+		
+
+
+
+	
 			
 			
 			
