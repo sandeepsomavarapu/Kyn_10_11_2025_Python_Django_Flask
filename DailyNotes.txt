@@ -221,14 +221,194 @@ Inheritance
 		
 		deposit(cash/cheque/dd)
 		
-		Exception
+Exception Handling
+
+			try-->error code /risky code
+			except-->handling code
+			raise-->
+			finally-->
+								Throwable/BaseException
+								
+			
+			syntax errors
+			runtime errors
 		
+		
+									BaseException
+								
+						Exception	SystemExit   KI   GE	
 		database
+						AttributeError
+						AE
+						EOF
+						NameErrors
+						
 		
+		try:
+		
+		
+		except:
+
+x=10
+if x==10:#syntaxError
+    print("x is 10")    
+
+print(10/2)   #abnormal termination ZeroDivisionError
+print(10/5) #TypeError
+eid=int(input("Enter your id"))  #valueError
+
+
+
+	try:			invalild
+	
+	
+	try:
+	
+	finally:			invalid
+	
+	except		
+
+	try:	
+		try:
+		
+		except:
+		
+		finally:			valid
+	except:
+	
+	
+	finally
+	
+	
+	try:
+	
+	
+	finally:				valid
+	
+	
+	
+	class InsufficientException extends Exception{
+	
+	}
+	
+	
+	class InvalidCredentials(Exception):
+		def __init__(self,message):
+			self.message=message
+			
+				threading
+				
+				class MyThread(Thread):
+				
+				
+				
+				class MyThread
+				
+				
+	PDBC
+
+
+Web application
+URL-->DNS
+
+DJANGO--->python
+
+	MVT
+	
+	DJANGO software foundation
+	
+	2003
+	
+	2005
+
+	1)fast
+	
+	2)Fully loaded
+	
+	3)security
+	
+	
+	
+	python
+	pip
+	
+	pip install django
+	
+	py -m django --version
+	
+	django-admin
+	
+	
+	django-admin startproject demoapp
+	
+	cd demoapp
+	
+	py manage.py runserver 
+	
+	8000
+	
+	to launch on other port
+	py manage.py runserver  1234
+	
+	1234
+	
+	cd demoapp
+	django-admin startproject firstapp
+	
+	settings.py-->load your app -->INSTALLED_APPS = [....,firstapp]
+
+	urls.py	  -->url-->view
+	
+	firstapp-->view.py-->will define views
+	
+	urlapp-->views.py-->will define views
+			 urls.py-->will define app level urls
+			 urls.py-->will include app level urls.py with project level urls.py1
+	
+	
+	Templates
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 
 
 
 
+
+
+
+
+	
+		
+		
+	
+	
+	
+		
 
 
 
